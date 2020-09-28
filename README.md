@@ -1,7 +1,9 @@
 # image-search-download
 Search image from Google and download how many do you want with Node.js.
 
-Run:
+To run after clone:
+
+### `cd image-search-download`
 
 ### `npm install`
 
